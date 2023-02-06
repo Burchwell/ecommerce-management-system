@@ -1,0 +1,12 @@
+// If you want to override variables do it here
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700;800&display=swap');
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "vendors/chart";
+@import "variables";
+@import "card";
+@import "custom";
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
